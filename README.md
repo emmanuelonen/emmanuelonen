@@ -3,7 +3,7 @@
 
 📍 George Town, Cayman Islands (EST — UTC-5)
 🔗 [LinkedIn](https://linkedin.com/in/emmanuelonen)
-📧 eonenky@gmail.com
+📧 eonenit@gmail.com
 
 ---
 
