@@ -12,9 +12,9 @@
 Cloud Infrastructure Architect with 15+ years delivering enterprise hybrid and
 multicloud platforms across financial services, aviation, government and regulated
 environments. Currently building toward Senior Cloud Engineer and Cloud Architect
-roles in the US, UK, and Canada remote market.
+roles in the Cayman Islands, US, UK and Canada remote market.
 
-Specialist in Nutanix HCI, VMware, HPE enterprise storage, Veeam DR, and hybrid
+Specialist in Nutanix HCI, VMware, HPE enterprise storage, Veeam DR and hybrid
 cloud integration with AWS and Azure.
 
 ---
