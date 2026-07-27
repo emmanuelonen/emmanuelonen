@@ -34,7 +34,7 @@ cloud integration with AWS and Azure.
 | Lab | Topic | Status |
 |-----|-------|--------|
 | [Lab 1 — Active Directory](https://github.com/emmanuelonen/lab1-active-directory) | Windows Server 2025 · DC Promotion · OUs · GPOs · Identity | ✅ Complete |
-| Lab 2 — Azure Networking | VNets · NSGs · Private Endpoints · DNS | 🔄 In progress |
+| | [Lab 2 – Azure Networking](https://github.com/emmanuelonen/lab2-azure-networking) | VNets · NSGs · Private Endpoints · DNS | ✅ Complete | | VNets · NSGs · Private Endpoints · DNS | 🔄 In progress |
 | Lab 3 — Azure Identity | Entra ID · RBAC · Managed Identities · Conditional Access | 📋 Planned |
 | Lab 4 — KQL & Azure Monitor | Log Analytics · Dashboards · Alerting | 📋 Planned |
 | Lab 5 — Terraform on Azure | IaC · Bicep · ARM · Infrastructure Automation | 📋 Planned |
