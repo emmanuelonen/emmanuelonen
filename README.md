@@ -29,7 +29,7 @@ cloud integration with AWS and Azure.
 
 ---
 
-## Microsoft Azure: Cloud Engineering Lab Portfolio
+## Microsoft Azure: Cloud Engineering Lab Portfolio (2026)
 
 | Lab | Topic | Status |
 |-----|-------|--------|
