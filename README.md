@@ -32,12 +32,12 @@ cloud integration with AWS and Azure.
 ## Microsoft Azure: Cloud Engineering Lab Portfolio (2026)
 
 | Lab | Topic | Status |
-|-----|-------|--------|
+| :--- | :--- | :--- |
 | [Lab 1 — Active Directory](https://github.com/emmanuelonen/lab1-active-directory) | Windows Server 2025 · DC Promotion · OUs · GPOs · Identity | ✅ Complete |
-| [Lab 2 – Azure Networking](https://github.com/emmanuelonen/lab2-azure-networking) | VNets · NSGs · Private Endpoints · DNS | ✅ Complete | | VNets · NSGs · Private Endpoints · DNS | 🔄 In progress |
+| [Lab 2 — Azure Networking](https://github.com/emmanuelonen/lab2-azure-networking) | Hub-Spoke VNets · NSGs · Private Endpoints · DNS | ✅ Complete |
 | [Lab 3 — Azure Identity](https://github.com/emmanuelonen/lab3-azure-identity-governance) | Entra ID · RBAC · Managed Identities · Conditional Access | ✅ Complete |
-| [Lab 4 — KQL & Azure Monitor](https://github.com/emmanuelonen/Lab4-Azure-Monitor-Observability) | Log Analytics · Dashboards · Alerting | ✅ Complete |
-| Lab 5 — Terraform on Azure | IaC · Bicep · ARM · Infrastructure Automation | 📋 Planned |
+| [Lab 4 — KQL & Azure Monitor](https://github.com/emmanuelonen/Lab4-Azure-Monitor-Observability) | Log Analytics · KQL Queries · Dashboards · Alerting | ✅ Complete |
+| [Lab 5 — Terraform & Bicep on Azure](https://github.com/emmanuelonen/Lab-05-IaC-Terraform-Bicep) | Declarative IaC · Remote State · Drift Detection · Bicep | ✅ Complete |
 
 ---
 
