@@ -78,7 +78,7 @@ Specializing in hybrid cloud integration (Azure & AWS), Nutanix HCI, VMware, HPE
 
 ## Certifications & Technical Roadmap
 
-**Active Certifications:**
+**Active Certifications & Credentials:**
 * Nutanix Certified Professional — Multicloud Infrastructure (NCP-MCI)
 * Nutanix Certified Professional — Unified Storage (NCP-US)
 * Veeam Data Platform Foundation v12
@@ -86,9 +86,9 @@ Specializing in hybrid cloud integration (Azure & AWS), Nutanix HCI, VMware, HPE
 * ITIL v3 Foundation
 * HPE Enterprise Infrastructure (ProLiant, Synergy, Alletra, 3PAR, SimpliVity)
 
-**Azure & DevOps Certification Roadmap:**
-`AZ-900` (Fundamentals) → `AZ-104` (Administrator) → `AI-102` (AI Engineer) → `AZ-400` (DevOps Engineer Expert)
+**Azure, Security & DevOps Certification Roadmap:**
+`AZ-900` (Fundamentals) ➔ `AZ-104` (Azure Administrator) ➔ `MS-102` / `SC-400` (M365 & Security Governance) ➔ `SC-200` (Security Operations Analyst) ➔ `CKA` (Certified Kubernetes Administrator) ➔ `AZ-400` (DevOps Engineer Expert)
 
 ---
 
-*All portfolio projects feature full documentation, executable scripts, architecture diagrams, and production-grade verification proofs.*
+*All portfolio projects feature full architecture diagrams, executable automation scripts, decision records, and production-grade verification proofs.*
