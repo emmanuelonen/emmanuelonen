@@ -19,8 +19,8 @@ Specializing in hybrid cloud integration (Azure & AWS), Nutanix HCI, VMware, HPE
 * **Cloud & Infrastructure:** Microsoft Azure · Enterprise Networking (Hub-Spoke VNets, Peering, Private Endpoints, Private DNS) · Hybrid Cloud Architecture
 * **Infrastructure as Code (IaC):** Terraform (HCL) · Azure Bicep · Remote State Architecture & Blob Locking · Drift Detection & Remediation · Azure CLI
 * **Identity, Security & Compliance:** Entra ID · Active Directory DS / GPOs · Microsoft Graph SDK v2.x · Exchange Online · Microsoft Purview DLP · RBAC · Conditional Access · PIM · SOC 2 / ISO 27001 Audit Evidence
-* **Linux, Scripting & Automation:** Linux (Enterprise Admin & Shell Navigation) · PowerShell 7 · Bash · KQL (Kusto Query Language) · Git & GitHub Workflows
-* **Observability & Operations:** Azure Monitor Workspace · Log Analytics (LAW) · Azure Monitor Agent (AMA) · Data Collection Rules (DCR) · Dynamic Workbooks · Metric Alert Rules
+* **Linux Systems & Administration:** Linux Administration (Enterprise CLI & GUI Workflow) · Red Hat Enterprise Linux (RHEL) · CompTIA Linux+ Certified · Bash Scripting · System Navigation & Troubleshooting across RHEL / Ubuntu / Debian
+* **Scripting, Automation & Observability:** PowerShell 7 · Bash · Azure CLI · KQL (Kusto Query Language) · Azure Monitor · Log Analytics (LAW) · Azure Monitor Agent (AMA via DCR) · Git / GitHub Workflows
 * **Virtualization, Storage & DR:** Nutanix HCI (AHV/AOS) · VMware vSphere · Enterprise Storage (HPE Alletra, 3PAR, Synergy) · Veeam Backup & Disaster Recovery
 
 ---
