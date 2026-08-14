@@ -35,6 +35,7 @@ Specializing in hybrid cloud integration (Azure & AWS), Nutanix HCI, VMware, HPE
 | [Lab 3 — Azure Identity](https://github.com/emmanuelonen/lab3-azure-identity-governance) | Zero Trust & Access Governance | Entra ID · RBAC · Managed Identities · Conditional Access | ✅ Complete |
 | [Lab 4 — KQL & Azure Monitor](https://github.com/emmanuelonen/Lab4-Azure-Monitor-Observability) | Enterprise Observability | Log Analytics · KQL Queries · Workbooks · Alert Rules | ✅ Complete |
 | [Lab 5 — Terraform & Bicep on Azure](https://github.com/emmanuelonen/Lab-05-IaC-Terraform-Bicep) | Declarative IaC Automation | Declarative HCL · Remote State Locking · Drift Detection · Bicep | ✅ Complete |
+| [Lab 6 — M365 Security & Governance](https://github.com/emmanuelonen/lab6-m365-security-governance) | Identity-Driven Security & Compliance | Graph SDK v2.x · Exchange Online · Purview DLP · PowerShell 7 | ✅ Complete |
 
 ---
 
