@@ -36,6 +36,10 @@ Specializing in hybrid cloud integration (Azure & AWS), Nutanix HCI, VMware, HPE
 | [Lab 4 — KQL & Azure Monitor](https://github.com/emmanuelonen/Lab4-Azure-Monitor-Observability) | Enterprise Observability | Log Analytics · KQL Queries · Workbooks · Alert Rules | ✅ Complete |
 | [Lab 5 — Terraform & Bicep on Azure](https://github.com/emmanuelonen/Lab-05-IaC-Terraform-Bicep) | Declarative IaC Automation | Declarative HCL · Remote State Locking · Drift Detection · Bicep | ✅ Complete |
 | [Lab 6 — M365 Security & Governance](https://github.com/emmanuelonen/Lab6-M365-Identity-Security) | Identity-Driven Security & Compliance | Graph SDK v2.x · Exchange Online · Purview DLP · PowerShell 7 | ✅ Complete |
+| Lab 7 — SharePoint Permissions & Compliance | Enterprise Permissions & Governance | SharePoint Online · Information Barriers · Sensitivity Labels · PowerShell | ⏳ Scheduled |
+| Lab 8 — Kubernetes & Containers on Azure | Container Orchestration & Scaling | Azure Kubernetes Service (AKS) · ACR · Docker · HPA · Helm | ⏳ Scheduled |
+| Lab 9 — Microsoft Sentinel AI Threat Detection | Automated SIEM/SOAR Incident Response | Microsoft Sentinel · KQL Analytics Rules · Logic Apps Playbooks · Defender | ⏳ Scheduled |
+| Lab 10 — Conditional Access as Code (CaC) | DevSecOps & Pipeline-Driven IAM | GitHub Actions · Graph API · az rest · JSON Baselines · CI/CD | ⏳ Scheduled |
 
 ---
 
