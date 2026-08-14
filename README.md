@@ -16,11 +16,12 @@ Specializing in hybrid cloud integration (Azure & AWS), Nutanix HCI, VMware, HPE
 
 ## Core Tech Stack
 
-* **Cloud & Infrastructure:** Microsoft Azure · Enterprise Networking (Hub-Spoke, VPN, Private Endpoints) · Hybrid Cloud
-* **Infrastructure as Code (IaC):** Terraform (HCL) · Azure Bicep · Remote State Architecture · Drift Remediation
-* **Identity & Security:** Entra ID (Azure AD) · RBAC · Conditional Access · Least-Privilege IAM · Active Directory / GPO
-* **Observability & Scripting:** Azure Monitor · Log Analytics (KQL) · PowerShell · Bash · Azure CLI
-* **Virtualization & Storage:** Nutanix HCI · VMware vSphere · HPE Enterprise Storage (Synergy, Alletra, 3PAR) · Veeam DR
+* **Cloud & Infrastructure:** Microsoft Azure · Enterprise Networking (Hub-Spoke VNets, Peering, Private Endpoints, Private DNS) · Hybrid Cloud Architecture
+* **Infrastructure as Code (IaC):** Terraform (HCL) · Azure Bicep · Remote State Architecture & Blob Locking · Drift Detection & Remediation · Azure CLI
+* **Identity, Security & Compliance:** Entra ID · Active Directory DS / GPOs · Microsoft Graph SDK v2.x · Exchange Online · Microsoft Purview DLP · RBAC · Conditional Access · PIM · SOC 2 / ISO 27001 Audit Evidence
+* **Linux, Scripting & Automation:** Linux (Enterprise Admin & Shell Navigation) · PowerShell 7 · Bash · KQL (Kusto Query Language) · Git & GitHub Workflows
+* **Observability & Operations:** Azure Monitor Workspace · Log Analytics (LAW) · Azure Monitor Agent (AMA) · Data Collection Rules (DCR) · Dynamic Workbooks · Metric Alert Rules
+* **Virtualization, Storage & DR:** Nutanix HCI (AHV/AOS) · VMware vSphere · Enterprise Storage (HPE Alletra, 3PAR, Synergy) · Veeam Backup & Disaster Recovery
 
 ---
 
