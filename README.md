@@ -74,7 +74,7 @@ Specializing in hybrid cloud integration (Azure & AWS), Nutanix HCI, VMware, HPE
 * **Why It Stands Out:** This is the intersection of three disciplines simultaneously: IAM, IaC, and DevSecOps. It represents the most mature tier in this portfolio and reflects what a Principal Cloud Engineer or DevSecOps Architect does daily. It closes the portfolio loop perfectly: Lab 1 built identity on-premises, Lab 3 built cloud identity manually, and Lab 10 puts that identity governance into a fully automated, version-controlled, peer-reviewed pipeline.
 * **Certification Alignment:** AZ-400 (DevOps Solutions) · SC-300 (Identity & Access Administrator)
 
-* ---
+---
 
 ## Certifications & Technical Roadmap
 
