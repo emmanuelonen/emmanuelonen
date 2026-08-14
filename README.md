@@ -26,7 +26,7 @@ Specializing in hybrid cloud integration (Azure & AWS), Nutanix HCI, VMware, HPE
 
 ## Enterprise Azure Cloud Engineering Portfolio (2026)
 
-*A structured 5-lab engineering series building, securing, observing, and codifying a production landing zone for Global Logistics & Enterprise Services.*
+*A structured 10-lab engineering series building, securing, observing, and codifying a production landing zone for Global Logistics & Enterprise Services.*
 
 | Lab | Architectural Focus | Key Technologies | Status |
 | :--- | :--- | :--- | :--- |
