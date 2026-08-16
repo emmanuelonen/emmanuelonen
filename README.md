@@ -8,9 +8,15 @@
 
 ## About Me
 
-Cloud Infrastructure Architect with 15+ years delivering enterprise hybrid and multicloud platforms across financial services, aviation, government, and highly regulated environments. Currently targeting Senior Cloud Engineer, Infrastructure Architect, and DevOps roles across local and remote markets (Cayman Islands, US, UK, Canada).
+Senior Systems Engineer / Cloud Infrastructure Engineer. 15+ years building hybrid and multicloud platforms across financial services, aviation, government and regulated industries.
 
-Specializing in hybrid cloud integration (Azure & AWS), Nutanix HCI, VMware, HPE enterprise storage, Veeam DR, and automated Infrastructure as Code (IaC) workflows.
+HPE-certified across servers and storage, with a track record my employer recognised by sending me to HPE Global Partner Summits in Prague, Frankfurt and Copenhagen and to extensive vendor training. Delivered national airport infrastructure at 99.99% uptime (100+ ESXi hosts, 1,400+ VMs) and led a zero-downtime Nutanix HCI rollout across 48 ABSA Mozambique branches.
+
+Based in the Cayman Islands — South African national, open to relocation. Targeting Senior Cloud Engineer / Senior Systems Engineer roles, remote or on-site.
+
+Azure · AWS · Nutanix HCI · VMware · HPE Storage · Veeam DR · Terraform · Bicep
+
+Self-funded 10-lab engineering series below — 6 complete, 4 in progress. Full architecture, scripts and execution evidence, not just talk.
 
 ---
 
