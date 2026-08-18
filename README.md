@@ -98,4 +98,4 @@ Self-funded 10-lab engineering series below — 6 complete, 4 in progress. Full 
 
 ---
 
-*All portfolio projects feature full architecture diagrams, executable automation scripts, decision records, and production-grade verification proofs.*
+*All portfolio projects feature full architecture diagrams, executable automation scripts, decision records and production-grade verification proofs.*
